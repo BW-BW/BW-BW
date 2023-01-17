@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Feel Free to Contact Me at:
-*(https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge) [Brian Widjaja](https://www.linkedin.com/in/brian-widjaja/)
+*![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge) [Brian Widjaja](https://www.linkedin.com/in/brian-widjaja/)
 <!--
